@@ -9,4 +9,4 @@ I had a group of three friends, including me, who played almost everyday for abo
 ### My Stats
 [Stats](https://r6.tracker.network/profile/xbox/lnfunit)
 
-[Back](README.md)          [Forward](
+[Back](README.md)          [Forward](FavoritePets.dm)
