@@ -32,4 +32,4 @@ def main():
 
 main()
 ```
-[Back](README.md)      [Forward](FavoriteThings.md)
+[Back](README.md)      [Forward](FavoriteStuff.md)
