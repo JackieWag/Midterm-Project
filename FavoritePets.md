@@ -1,6 +1,16 @@
 # Favorite Pets
 
-### Normal Pets
-* ![Husky](
+### Normal Pet Tiers
+* ![Dog](
 * Cat
-* 
+* Fish
+* Tree Birds
+* Snakes
+* Insects
+
+### Exotic Pet Tiers
+* Tiger
+* Peacock
+* Elephant
+* Dolphin
+* Mini Shark
